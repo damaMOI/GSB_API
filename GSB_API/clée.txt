@@ -1,0 +1,1 @@
+scaffold-DbContext "Data Source=(localdb)\mssqllocaldb;Initial Catalog=GSB_RENDU;Integrated Security=True;Trust Server Certificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models;
